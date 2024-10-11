@@ -1,5 +1,5 @@
 # ProcessControlWorkerService
-This Project focuses on tracking an order and allowed running time of certain processes. <br />
+This project focuses on tracking an order and allowed running time of certain processes. <br />
 * 
 <br />Works only for windows and only for visual studio's applications // 10/12/2024 <br />
 *
